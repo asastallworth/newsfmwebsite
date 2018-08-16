@@ -1,0 +1,262 @@
+.biblescript{
+    
+    position: relative;
+    float:left;
+    height: 700px;
+    width: 150px;
+    margin-left: -40px;
+}
+body {
+    background-color: #EBEBEB;
+}
+
+.blogspotLogo {
+    height:50px;
+}
+
+.facebookLogo {
+    height: 50px;
+}
+.footer {
+    background-color: #484744;
+    text-align:center;
+    padding:20px;
+    height: 200px;
+    margin-left: -15px;
+    margin-right: -15px;
+
+}
+
+.footerList{
+    list-style-type: none;
+    
+}
+
+.headercontainer {
+    background-color: #484744;
+    text-align:center;
+    padding:20px;
+    height: 200px;
+    margin-left: -15px;
+    margin-right: -15px;
+    margin-top: -15px;
+}
+
+.headImage {
+    margin: 0;
+    padding:0;
+    width: 75px;
+    height:115px;
+    position: relative;
+    float:left; 
+}
+
+.headerLinks {
+    color: black;
+}
+.mainContent{
+    height: 1550px;
+    
+}
+.mobileHeader {
+    background-color: #484744;
+    height:150px;
+    margin-left: -15px;
+    margin-right: -15px;
+    margin-top: -15px;
+}
+
+/* show it on small screens */
+@media screen and (min-width: 0px) and (max-width: 600px) {
+  .mobileHeader { 
+      display: block;
+    }
+    .headercontainer {
+        display: none;
+    }
+    .sidebarContainer {
+        display: none;
+    }
+    .footer {
+        display: none;
+    }
+    #crossPicFrontPage {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 601px) {
+  .mobileHeader { 
+      display: none; 
+    } 
+}
+
+.mobileNav a{
+        float:left;
+    color:#f2f2f2;
+    text-align:center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size; 17px;
+}
+.mobileNav a.active {
+    background-color:#4CAF50;
+    color:white;
+}
+.recomendationsContainer{
+    float:none;
+    
+}
+.recH4{
+    font-size: 14px;
+    margin-left: 10px;
+}
+a:link{
+    color:black;
+}
+a: visited {
+    color:black;
+}
+
+.RaggersContainer{
+    margin-left: 150px;
+    margin-right: 150px;
+    position: relative;
+    
+}
+
+.sfmTitle {
+    color:#fff;
+    text-align: center;
+    font-size:;
+    font-family: sans-serif; 
+}
+.sfmTitleMobile {
+    color:#fff;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.sidebarContainer{
+    float:left;
+    height: 1600px;
+    position: relative;
+    background-color: #5C8EEA;
+    margin-left: -10px;
+    margin-right: 10px;
+    width: 160px;
+}
+
+
+.socialMediaLinks {
+    text-align: center;
+    
+}
+
+.shortAbout {
+    text-align: center;
+    margin:0;
+    padding: 0;
+    color:#fff;
+    
+}
+
+.socialMediaLinks ul {
+    list-style-type:none;
+}
+
+
+.socialMediaLinks{
+    float:none;
+}
+.topNavBar {
+    background-color:#333;
+    overflow:hidden;
+    margin-top: 20px;
+}
+
+.topNavBar a {
+    float:left;
+    color:#f2f2f2;
+    text-align:center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size; 17px;
+}
+
+.topNavBar a.active {
+    background-color:#4CAF50;
+    color:white;
+}
+
+.twitterLogo{
+    height:50px;
+}
+.welcomelist {
+    text-align: center;
+    list-style: none;
+    margin:auto;
+}
+
+
+#aboutUsContainer {
+    text-align:left;
+    font-size:16px;
+    margin-left: 150px;
+    margin-right: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#aboutUsPic{
+    height:200px;
+    position: relative;
+    float:right;
+}
+
+#contactUsPage {
+    text-align: center;
+}
+
+
+#bibleScripCont{
+    text-align: left;
+    font-size:16px;
+    margin-left: 50px;
+    color:#333;
+}
+
+#CHofYMCAtitle{
+    font-size: 16px;
+}
+#crossPicFrontPage {
+    height: 400px;
+    width: 300px;
+    margin: auto;
+    
+}
+#powerhourPlaylist{
+    margin-left: 350px;
+}
+#servicesPage {
+    font-size: 16;
+    margin-left:150px;
+    margin-right:150px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    text-align: left;
+}
+#raggerspicture{
+    height: 200px;
+    width:200px;
+    margin-left: 400px;
+}
+#welcomeContainer {
+    font-size: 16px;
+    margin-left:150px;
+    margin-right:150px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    text-align: left;
+}
+
+

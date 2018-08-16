@@ -1,0 +1,35 @@
+#page1{
+    height:2000px;
+    background-image:url(https://images.unsplash.com/photo-1508369233466-42c2fade18db?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b79fd54b48447fdfa7d6cb2e796981f0&auto=format&fit=crop&w=1673&q=80);
+}
+#page2 {
+    height:2000px;
+    background-image:url(https://images.unsplash.com/photo-1417144413558-cf029e0c7a04?ixlib=rb-0.3.5&s=ecd8e7d3565b16da37f5355274567b77&auto=format&fit=crop&w=2008&q=80);
+}
+#page3{
+    height:2000px;
+    background-image:url(https://images.unsplash.com/photo-1496338406295-3adc3db91a89?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ea27899e6d128af857883e2297333fda&auto=format&fit=crop&w=2766&q=80);
+}
+
+
+
+
+
+
+.facebookfollow{
+    height:50px;
+    
+}
+.twitterfollow{
+    height:50px;
+}
+.bloggerFollow{
+    height:50px;
+}
+
+.navbar{
+    background-color:gray;
+}
+.nav-item{
+    text-align: right;
+}
