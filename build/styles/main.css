@@ -17,6 +17,13 @@
 #yearReport{
     margin-left: 100px;
 }
+#aboutUsPic{
+    height: 100px;
+    width: auto;
+}
+#aboutUsContainer{
+    color:black;
+}
 
 .welcomelist{
     color:white;
