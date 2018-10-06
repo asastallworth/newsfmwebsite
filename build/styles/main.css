@@ -14,6 +14,10 @@
     background-repeat: no-repeat;
 }
 
+#yearReport{
+    margin-left: 100px;
+}
+
 .welcomelist{
     color:white;
     margin-top:25px;
@@ -28,6 +32,9 @@
 
 .facebookFollow{
     height:50px;
+}
+.pageHead{
+    text-align: center;
 }
 .twitterFollow{
     height:50px;
