@@ -20,7 +20,7 @@
 
 #page5{
     height:1500 px;
-    background-image:url();
+    background-image:url(https://images.unsplash.com/photo-1492632833879-ffead221b059?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1352&q=80);
 }
 
 
@@ -31,11 +31,20 @@
     height: 100px;
     width: auto;
 }
+#aboutusTitle{
+    color:black;
+    text-align: center;
+}
 #aboutUsContainer{
     color:black;
 }
 #servicesPage{
     color:black;
+}
+#Title{
+    margin-top:65px;
+    color:black;
+    text-align: center;
 }
 .welcomelist{
     color:white;
