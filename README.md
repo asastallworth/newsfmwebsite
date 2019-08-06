@@ -1,1 +1,1 @@
-# new sfm website
+Spiritual Fittness Ministries Website
